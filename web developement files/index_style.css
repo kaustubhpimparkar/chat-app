@@ -1,0 +1,26 @@
+﻿#wrapper {
+background: #d9d8d2;
+
+width:400px;
+height: 130px;
+
+padding:10px;
+
+margin: 0px auto;
+margin-top: 300px;
+
+}
+
+#user_name {
+margin-left:25px; 
+}
+
+#password {
+margin-left:35px; 
+}
+
+#sign_in {
+
+width: 100px;
+margin-left:120px;
+}
