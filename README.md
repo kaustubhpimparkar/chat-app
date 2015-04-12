@@ -2,10 +2,10 @@
 This is simple web programming chat application
 
 ** User login details: 
-userName:Kaustubh,  password:Kaustubh
-userName:John,  password:John
-userName:Mathew, password:Mathew
-userName:Andrew,  password":Andrew
+User Name:Kaustubh,  Password:Kaustubh
+User Name:John,  Password:John
+User Name:Mathew, Password:Mathew
+User Name:Andrew,  Password":Andrew
 
 **
 Programming languages: HTML, CSS, PHP, JavaScript
