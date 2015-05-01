@@ -5,7 +5,7 @@ This is simple web applicationn for chat
 User Name:Kaustubh,  Password:Kaustubh |
 User Name:John,  Password:John |
 User Name:Mathew, Password:Mathew |
-User Name:Andrew,  Password":Andrew
+User Name:Andrew,  Password:Andrew
 
 **
 Programming languages: HTML, CSS, PHP, JavaScript
