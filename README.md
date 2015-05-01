@@ -2,9 +2,9 @@
 This is simple web applicationn for chat
 
 ** User login details: 
-User Name:Kaustubh,  Password:Kaustubh
-User Name:John,  Password:John
-User Name:Mathew, Password:Mathew
+User Name:Kaustubh,  Password:Kaustubh |
+User Name:John,  Password:John |
+User Name:Mathew, Password:Mathew |
 User Name:Andrew,  Password":Andrew
 
 **
