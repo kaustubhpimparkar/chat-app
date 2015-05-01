@@ -1,5 +1,5 @@
 # chat-app
-This is simple web programming chat application
+This is simple web applicationn for chat
 
 ** User login details: 
 User Name:Kaustubh,  Password:Kaustubh
