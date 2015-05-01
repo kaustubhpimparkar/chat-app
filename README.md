@@ -2,14 +2,19 @@
 This is simple web applicationn for chat
 
 ** User login details: 
-User Name:Kaustubh,  Password:Kaustubh |
-User Name:John,  Password:John |
-User Name:Mathew, Password:Mathew |
+User Name:Kaustubh,  Password:Kaustubh
+
+User Name:John,  Password:John
+
+User Name:Mathew, Password:Mathew
+
 User Name:Andrew,  Password:Andrew
 
 **
 Programming languages: HTML, CSS, PHP, JavaScript
+
 Platforms: Apache HTTP Server, web browser(use chrome, frefox, or safari for good compatibilty)
+
 FileSystem Implementation to store chat communication history on Server side. All data in files stored and retrieved is in JSON format.
 
 ** Description for files and folders from chat-app:
